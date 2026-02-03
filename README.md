@@ -5,7 +5,7 @@ This repository contains Windows endpoint security audits and hardening assessme
 The reports review running processes, network traffic, and firewall configuration, then provide practical recommendations to improve security.
 
 ## Reports
-- [Windows Endpoint Security Audit & Hardening Assessment.pdf](Windows Endpoint Security Audit & Hardening Assessment.pdf)
+- [Windows-Endpoint-Security-Audit-Hardening-Assessment.pdf](Windows-Endpoint-Security-Audit-Hardening-Assessment.pdf)
 - [Windows_Endpoint_Security_Traffic_Process_and_Firewall_Assessment.pdf](Windows_Endpoint_Security_Traffic_Process_and_Firewall_Assessment.pdf)
 
 ## What This Shows
